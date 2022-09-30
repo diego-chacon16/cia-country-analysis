@@ -23,3 +23,12 @@ https://www.cia.gov/library/publications/the-world-factbook/docs/faqs.html
 + 
 
 #### Task 3: Creating a heatmap of the correlation between columns in the DataFrame
+
+
+### Data Feature Preparation
+
++ Prepare the data for clustering
++ Use the get_dummies functions to turn non mathetical columns into dummy variables
++ Use the Standard Scaler due to the different types of measurements
++ Create and Fit KMeans Model
++ Model Interpretation
