@@ -32,3 +32,10 @@ https://www.cia.gov/library/publications/the-world-factbook/docs/faqs.html
 + Use the Standard Scaler due to the different types of measurements
 + Create and Fit KMeans Model
 + Model Interpretation
+
+
+### Creating and Fitting Kmeans Model
+
++ Use a for loop to create and fit several Kmeans models testing anywhere from 2 to 30 models
++ Keep track of the sum of squared distances for each K value
++ Plot it out to creare an "elbow" plot of K versus SSD
